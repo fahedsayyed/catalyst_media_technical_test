@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif:wght@500&display=swap");
+
+:root {
+  /* fonts */
+  --general-price-small-standard: "Nunito Sans";
+  --heading-h3: "Noto Serif";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --general-price-small-standard-size: 14px;
+  --heading-h3-size: 18px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-silver: #bfbebe;
+  --primary-color: #5a112b;
+  --tertiary-dark-brown: #4f4733;
+  --tertiary-black: #131414;
+  --color-whitesmoke: #f8f7f7;
+  --color-gainsboro: #d9d9d9;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-xl: 20px;
+  --gap-base: 16px;
+  --gap-10xs: 3px;
+  --gap-xs: 12px;
+  --gap-5xs: 8px;
+  --gap-37xl: 56px;
+}
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --general-price-small-standard: "Nunito Sans";
+  --heading-h3: "Noto Serif";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --general-price-small-standard-size: 14px;
+  --heading-h3-size: 18px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-silver: #bfbebe;
+  --color-black: #000;
+  --primary-color: #5a112b;
+  --tertiary-dark-brown: #4f4733;
+  --tertiary-black: #131414;
+  --color-whitesmoke: #f8f7f7;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+  --gap-37xl: 56px;
+  --gap-base: 16px;
+  --gap-10xs: 3px;
+  --gap-xs: 12px;
+}

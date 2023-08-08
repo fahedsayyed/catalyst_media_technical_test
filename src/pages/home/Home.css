@@ -1,0 +1,538 @@
+.footer-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #1e1e1e;
+  width: 1440px;
+  height: 305px;
+}
+.all-products {
+  margin: 0;
+}
+.home-all-products-container {
+  position: absolute;
+  top: 96px;
+  left: 48px;
+  line-height: 29px;
+}
+.right {
+  font-weight: 800;
+}
+.fit {
+  font-weight: 900;
+  font-family: var(--general-price-small-standard);
+}
+.fitcom {
+  color: var(--color-white);
+}
+.rightfitcom {
+  position: absolute;
+  top: 45px;
+  left: 48px;
+  font-size: var(--heading-h3-size);
+  text-align: center;
+  color: var(--color-silver);
+}
+.image-1-icon {
+  position: absolute;
+  top: 165px;
+  left: 258px;
+  width: 329px;
+  height: 55px;
+  object-fit: cover;
+}
+.we-are-a,
+.website-protected-by {
+  position: absolute;
+  top: 104px;
+  left: 256px;
+  line-height: 19px;
+  display: inline-block;
+  width: 623px;
+  height: 65px;
+}
+.website-protected-by {
+  top: 0;
+  left: 0;
+  width: 197px;
+}
+.image-2-icon {
+  position: absolute;
+  top: 45px;
+  left: 0;
+  width: 220px;
+  height: 53px;
+  object-fit: cover;
+}
+.footer,
+.website-protected-by-parent {
+  position: absolute;
+  top: 104px;
+  left: 1139px;
+  width: 220px;
+  height: 98px;
+}
+.footer {
+  top: 1886px;
+  left: 0;
+  width: 1440px;
+  height: 305px;
+  font-size: var(--general-price-small-standard-size);
+}
+.pagination-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #d9d9d9;
+  width: 32px;
+  height: 32px;
+}
+.b,
+.div,
+.div1,
+.div2 {
+  position: absolute;
+  top: 5px;
+  left: 11px;
+}
+.div,
+.div1,
+.div2 {
+  left: 51px;
+  font-weight: 600;
+}
+.div1,
+.div2 {
+  left: 81px;
+}
+.div2 {
+  left: 111px;
+}
+.frame-child,
+.pagination {
+  position: absolute;
+  top: 1193px;
+  left: 627px;
+  width: 121px;
+  height: 32px;
+}
+.frame-child {
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke);
+  width: 332px;
+  height: 443.34px;
+}
+.new-project-30-1,
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 332px;
+  height: 442px;
+}
+.new-project-30-1 {
+  object-fit: cover;
+}
+.rectangle-parent {
+  overflow: hidden;
+}
+.image,
+.image1 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.image1 {
+  height: 100%;
+  bottom: 0;
+  overflow: hidden;
+}
+.image {
+  height: 81.7%;
+  bottom: 18.3%;
+}
+.white-casual-t-shirts {
+  position: relative;
+  font-weight: 500;
+}
+.black {
+  position: relative;
+  text-transform: uppercase;
+}
+.black-parent,
+.white-casual-t-shirts-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.black-parent {
+  flex-direction: row;
+  gap: var(--gap-xs);
+  font-size: var(--general-price-small-standard-size);
+  color: var(--tertiary-dark-brown);
+  font-family: var(--general-price-small-standard);
+}
+.white-casual-t-shirts-parent {
+  flex-direction: column;
+  gap: var(--gap-10xs);
+}
+.inr-219900 {
+  position: relative;
+  line-height: 20px;
+}
+.content,
+.inr-219900-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.inr-219900-wrapper {
+  flex-direction: row;
+  font-size: var(--general-price-small-standard-size);
+  color: var(--primary-color);
+  font-family: var(--general-price-small-standard);
+}
+.content {
+  position: absolute;
+  height: 15.34%;
+  width: 100%;
+  top: 84.66%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  flex-direction: column;
+  gap: var(--gap-base);
+}
+
+.product-listing {
+  position: relative;
+  width: 332px;
+  height: 541px;
+}
+.products1,
+.products2 {
+  position: absolute;
+  top: 0;
+  left: 203px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-37xl);
+  font-size: var(--heading-h3-size);
+  color: var(--tertiary-black);
+  font-family: var(--heading-h3);
+}
+.products2 {
+  top: 581px;
+}
+.cotton6,
+.filter {
+  position: relative;
+}
+.cotton6 {
+  cursor: pointer;
+}
+.all-parent,
+.materials-parent {
+  overflow-y: auto;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.all-parent {
+  height: 122px;
+  font-size: var(--general-price-small-standard-size);
+}
+.materials-parent {
+  height: 157px;
+}
+.color {
+  position: relative;
+  font-size: var(--font-size-base);
+}
+.color-parent,
+.filters {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.color-parent {
+  gap: var(--gap-5xs);
+  font-size: var(--general-price-small-standard-size);
+}
+.filters {
+  position: absolute;
+  top: 0;
+  left: 0;
+  gap: 32px;
+}
+.products {
+  position: absolute;
+  top: 623px;
+  left: 32px;
+  width: 1311px;
+  height: 1225px;
+  color: var(--color-black);
+}
+.muscular-model-man-in-khaki-t-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1458px;
+  height: 500px;
+  object-fit: cover;
+}
+.masthead-child {
+  position: absolute;
+  top: 345px;
+  left: 138px;
+  border-radius: 10px;
+  background-color: #ca4022;
+  width: 199px;
+  height: 47px;
+}
+.browse-all-styles,
+.masthead-item {
+  position: absolute;
+  top: 357px;
+  left: 154px;
+}
+.masthead-item {
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, #000, transparent);
+  width: 1440px;
+  height: 105px;
+}
+.at-yesterdays-prices,
+.latest-styles {
+  position: absolute;
+  top: 226px;
+  left: 137px;
+  font-size: 64px;
+  font-weight: 900;
+}
+.at-yesterdays-prices {
+  top: 300px;
+  font-size: 20px;
+  font-weight: 800;
+}
+.masthead,
+.rightfitcom1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.masthead {
+  width: 1440px;
+  height: 575px;
+}
+.rightfitcom1 {
+  font-size: var(--heading-h3-size);
+  color: var(--color-silver);
+}
+.all-products1,
+.b1,
+.featured-products1 {
+  position: absolute;
+  display: inline-block;
+  height: 19px;
+}
+.b1 {
+  top: 3px;
+  left: 1360px;
+  font-size: var(--general-price-small-standard-size);
+  width: 17px;
+}
+.all-products1,
+.featured-products1 {
+  top: 0;
+  left: 979px;
+  text-align: left;
+  width: 111px;
+}
+.featured-products1 {
+  left: 1134px;
+  font-weight: 300;
+  width: 157px;
+}
+.mdicart-outline-icon {
+  position: absolute;
+  top: 0;
+  left: 1319px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.header {
+  position: absolute;
+  top: 31px;
+  left: 31px;
+  width: 1377px;
+  height: 25px;
+  mix-blend-mode: difference;
+  text-align: center;
+}
+.home {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2191px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--general-price-small-standard);
+}
+
+/* .product-listing {
+  /* Your existing styles for the product listing item */
+  /* position: relative; */
+  /* width: 300px; */
+  /* padding: 20px; */
+  /* border: 1px solid #ccc; */
+  /* transition: background-color 0.3s ease; */
+/* } */ */
+
+.product-listing:hover {
+  /* Styles to apply when the product listing item is hovered */
+  background: #000000CC; /* Set the background color on hover */
+}
+.product-listing:hover .add-to-cart-text {
+  /* Styles to apply when the product listing item is hovered */
+  visibility: visible;
+  opacity: 1;
+}
+.product-listing .image {
+  /* Your existing styles for the image section */
+  position: relative;
+  width: 100%;
+  /* height: 200px; Set the height of the image container */
+  overflow: hidden; /* Hide overflowing content */
+}
+
+.product-listing .image .rectangle-parent {
+  /* Your existing styles for the rectangle-parent */
+  /* position: absolute; */
+  /* top: 0; */
+  /* left: 0; */
+  /* width: 100%; */
+  /* height: 100%; */
+}
+
+.product-listing .image .frame-child {
+  /* Your existing styles for the frame-child */
+  width: 100%;
+  height: 100%;
+  background-color: #ccc; /* Set the default background color for the image */
+}
+
+.product-listing .image .new-project-30-1 {
+  /* Your existing styles for the image */
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensure the image fills the container */
+  transition: filter 0.3s ease; /* Add a smooth transition effect */
+}
+
+.product-listing:hover .image .new-project-30-1 {
+  /* Styles to apply when the image is hovered */
+  filter: brightness(0.8); /* Reduce brightness on hover */
+}
+
+.product-listing {
+  /* Your existing styles for the product listing item */
+  position: relative;
+  width: 332px;
+  height: 541px;
+  overflow: hidden; /* Hide overflowing content */
+}
+
+.product-listing .image {
+  /* Your existing styles for the image section */
+  position: relative;
+  width: 100%;
+}
+
+.product-listing .image .rectangle-parent {
+  /* Your existing styles for the rectangle-parent */
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.product-listing .image .frame-child {
+  /* Your existing styles for the frame-child */
+  width: 100%;
+  height: 100%;
+  background-color: #ccc; /* Set the default background color for the image */
+}
+
+.product-listing .image .new-project-30-1 {
+  /* Your existing styles for the image */
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensure the image fills the container */
+  transition: filter 0.3s ease; /* Add a smooth transition effect */
+}
+
+.product-listing .add-to-cart-text {
+  /* Styles for the "Add to Cart" text element */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /* background-color: rgba(0, 0, 0, 0.8); */
+  color: #fff;
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: bold;
+  visibility: hidden; /* Initially hidden */
+  opacity: 0; /* Initially transparent */
+  transition: visibility 0s linear 0.2s, opacity 0.2s;
+  color: #FFF;
+text-align: center;
+font-family: Nunito Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.product-listing:hover .add-to-cart-text {
+  /* Styles to apply when the product listing item is hovered */
+  visibility: visible;
+  opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
